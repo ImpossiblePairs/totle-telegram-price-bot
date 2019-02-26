@@ -1,5 +1,5 @@
 # totle-telegram-price-bot
-This is a working telegram bot that allows a Telegram user to:
+This is a working bot using Totle APIs that allows a Telegram user to:
 - Check the price of a specific ERC-20 token tracked by Totle
 - Check for arbitrage available with any of the tokens tracked by Totle
 
